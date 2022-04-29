@@ -5,7 +5,7 @@ This repository is meant for beginners to assist them in their learning of Pytho
 
 If this is your first time coding in Python, I would love to suggest you begin from the [Basics](https://github.com/codebasics/py/tree/master/Basics). They are simple to understand and hopefully will prove fun to you.
 
-You can also pay a visit to my very own [Youtube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+You can also pay a visit to  [Youtube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
 
 Contributions to the repository are welcome.
 
